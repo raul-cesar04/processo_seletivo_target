@@ -11,10 +11,6 @@ def fibonacci_sequence(n: int) -> bool:
     return True
 
 
-def fibonacci():
-    pass
-
-
 def main():
     n = int(input())
     print(fibonacci_sequence(n))

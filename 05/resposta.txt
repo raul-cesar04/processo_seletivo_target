@@ -1,0 +1,5 @@
+Acenderia o Interruptor 1 e 2 por determinado tempo, e depois apagaria o 2.
+Ao entrar na sala verificaria se a lampada esta acesa.
+Se estiver acesa essa é controlada pelo interruptor 1.
+Se estiver apagada, mas quente essa é controlada pelo interruptor 2.
+Se estiver apagada e fria essa é controlada pelo interruptor 3.
